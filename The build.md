@@ -2,7 +2,7 @@
 
 A university lab project where I designed a small client server network and tested it end to end. This page explains what I built, why I made each choice and what I learned.
 
-![Network topology](Network-Topology-CPT.png)
+![Network topology](Network Topology CPT.png)
 
 ## What I built
 
@@ -38,7 +38,7 @@ A hub sends every frame out of every port so anyone plugged in can capture every
 
 I pinged between PCs in different VLANs and to the server from three different starting points so I wasn't only checking one path. The first ping in each test timed out. That was ARP resolving and it's normal. After that I got 0% packet loss everywhere which told me the cabling and the routing were both right.
 
-![Ping tests](Ping-one.png)
+![Ping tests](Ping one.png)
 
 The rest of the pings are not in here.
 
