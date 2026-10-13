@@ -2,7 +2,7 @@
 
 A university lab project where I designed a small client server network and tested it end to end. This page explains what I built, why I made each choice and what I learned.
 
-![Network topology](Network Topology CPT.png)
+![Network topology](Network-Topology-CPT.png)
 
 ## What I built
 
